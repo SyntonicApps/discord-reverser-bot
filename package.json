@@ -1,0 +1,14 @@
+{
+  "name": "discord-reverser-bot",
+  "version": "1.0.0",
+  "description": "A simple Discord bot that reverses a user's message",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "Andrew Brooke <andrew.brooke@syntonic.io> (https://syntonic.io)",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^9.3.0"
+  }
+}
